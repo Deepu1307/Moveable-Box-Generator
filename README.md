@@ -6,9 +6,9 @@ Build an app to generate new boxes and to move those boxes using keyboard keys.
 
 It is a moveable box generator web based application. In this application, It has a big container and inside this container you can add a fixed size boxes as much as you want no limit for this. You can also delete those boxes whom you want to delete. These small size boxes will only move inside big container.
 
-## Functionalities of application ?
+## Functionalities of application
 
-1. For adding Box - Click on `+Add Box`.
+1. For adding Box - Click on `+Add Box` button.
 
 2. For Enabling/Disabling Keyboard Control - Click on `Enable` or `Disable` Radio Button.
 
@@ -16,7 +16,7 @@ It is a moveable box generator web based application. In this application, It ha
 
 4. For Delete box - Select box using mouse and Press `Delete` button
 
-# Getting Started with Moveable Box Geneartor
+## How to run this application in your Computer
 
 1. Download this repository in your computer.
 
