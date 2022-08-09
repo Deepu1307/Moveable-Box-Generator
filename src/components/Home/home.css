@@ -1,0 +1,42 @@
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  padding: 15px 35px;
+  background-color: #3ab1c8;
+  margin-bottom: 30px;
+}
+
+/* .navContainer > button {
+  font: inherit;
+  border: 1px solid #4f005f;
+  background: #4f005f;
+  color: white;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+  font-size: 18px;
+} */
+
+.keyboardContainer {
+  font-size: 18px;
+  display: flex;
+}
+
+.keyboardContainer > span {
+  margin-right: 14px;
+}
+.keyboardContainer > label {
+  margin-right: 8px;
+}
+.keyboardContainer > input {
+  margin-right: 8px;
+}
+
+.rectangularContainer {
+  margin: 0 auto;
+  height: 530px;
+  width: 95%;
+  border: 1px solid black;
+  position: relative;
+}
